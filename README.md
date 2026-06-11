@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Otávio Pádua
+# 👨🏻‍💻 Otávio de Pádua
 
 **`Estudante de Engenharia de Software | Desenvolvedor Java & Python`**
 
