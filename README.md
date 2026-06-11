@@ -11,14 +11,14 @@ Além da área de tecnologia, também possuo experiência com empreendedorismo e
 Utilizo este GitHub para compartilhar projetos acadêmicos, estudos, experimentos e aplicações desenvolvidas durante minha jornada na Engenharia de Software.
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/GODsGhst?tab=followers">
         <img 
             alt="Seguidores"
             title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/GODsGhst?tab=repositories&sort=stargazers">
         <img 
             alt="Estrelas"
             title="Total de estrelas"
