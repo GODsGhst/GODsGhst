@@ -42,7 +42,6 @@ Além da tecnologia, tenho experiência com empreendedorismo e gestão de proces
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [**Passos IA**](https://github.com/GODsGhst/passos-iav2) | App Android contador de passos com **análise biomecânica por IA**: modelo local que roda offline + análise refinada pelo **Google Gemini** quando online, com fallback automático (offline-first). Corrige contagem, estima passada, calcula calorias e detecta fraude | `Ionic` `Angular` `Capacitor` `TypeScript` `Gemini` |
-| **Yuki AI** 🚧 | Companheira de chat anime **local-first** (desktop + PWA): LLM rodando localmente via Ollama, 14 personalidades, memória, voz e visão. Em desenvolvimento — em breve no GitHub | `Python` `Ollama` `LLM local` |
 
 ## 🚀 Projeto em destaque
 
